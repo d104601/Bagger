@@ -1,5 +1,5 @@
 # Bagger
-Assignment5 of CS7410 BC
+Assignment5 of CS7410 Artificial intelligence.
 This program is to bag groceries in the manner of a grocery-store checkout clerk. 
 
 The program follows the five steps as defined by the following procedure description:
